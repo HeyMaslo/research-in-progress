@@ -72,8 +72,8 @@ The idea is to put an AI between you and the media in order to let the machine m
 ##### Progress
 
 * We're progressing on the knob prototype. 
-  * We have conceptualize a whole interaction system to jump from one knob to another and also build your own knob. 
-  * Cleaning up the whole system for github so you can connect it to anything and build remembering machines.
+  * Conceptualizing an interaction system that allows you to jump from one knob to another and also build your own knob. 
+  * Cleaning up the system for github to be able to connect it to anything and build remembering machines.
 
 <a href='https://drive.google.com/file/d/1GACC_bYePoRM4mXabpwQCjbeYJnTBTRJ/view'>This link takes you to a short video demo of Knob so far.</a>
  
