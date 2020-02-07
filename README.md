@@ -65,13 +65,15 @@ Setup a GitHub repository containing all of our computational and cognitive rese
 
 ##### Objective
 
-The idea is to put an AI between you and the media in order to let the machine manage your use of the media. One use case could be to give it to kids to expose them to healther content and ease them into technology with a healthier behavioral approach based on storytelling. You control your experience indirectly by teaching the machine and the machine remembers and will mimick your behaviour at corresponding times of the day. As you reinforce your habits, the knob will progressively gain its own weight, and build its own behaviour based on yours. As you let it live, recorded memories and behavioral traits fade out, and the knob can adapt to your new current use better. In short: you set the rules but you can fall under your own rules. I have conceptualize a whole interaction system to jump from one knob to another and also build your own knob and have the whole system cleaned-up for github so you can connect it to anything and build remembering machines. The whole thing also allows very easily to understand how and to hack the machine's behavioral map without coding but by literally painting your own behavioral map (with Paint or anything), which looks like this.
+The idea is to put an AI between you and the media in order to let the machine manage your use of the media. One use case could be to give it to kids to expose them to healther content and ease them into technology with a healthier behavioral approach based on storytelling. You control your experience indirectly by teaching the machine and the machine remembers and will mimick your behaviour at corresponding times of the day. As you reinforce your habits, the knob will progressively gain its own weight, and build its own behaviour based on yours. As you let it live, recorded memories and behavioral traits fade out, and the knob can adapt to your new current use better. In short: you set the rules but you can fall under your own rules.  The whole thing also allows very easily to understand how and to hack the machine's behavioral map without coding but by literally painting your own behavioral map (with Paint or anything), which looks like this.
 
 <img src='assets/k1.png' width='250'>
  
 ##### Progress
 
-We're progressing on the knob prototype. 
+* We're progressing on the knob prototype. 
+  * We have conceptualize a whole interaction system to jump from one knob to another and also build your own knob. 
+  * Cleaning up the whole system for github so you can connect it to anything and build remembering machines.
 
 <a href='https://drive.google.com/file/d/1GACC_bYePoRM4mXabpwQCjbeYJnTBTRJ/view'>This link takes you to a short video demo of Knob so far.</a>
  
