@@ -7,7 +7,7 @@ Progress on the research side during the week of 2/3/2020 - 2/7/2020.
 1. Lab Study Design
 2. GitHub Repository 
 3. Knob 
-4. Tiana ML
+4. Text Summarization Algorithm
 
 ## Lab Study Design 
 
@@ -77,6 +77,21 @@ The idea is to put an AI between you and the media in order to let the machine m
 
 <a href='https://drive.google.com/file/d/1GACC_bYePoRM4mXabpwQCjbeYJnTBTRJ/view'>This link takes you to a short video demo of Knob so far.</a>
  
-## Tiana ML
+## Text Summarization Algorithm
 
-**to be filled**
+##### Objective
+
+Develop a fully-functional text summarization algorithm. 
+
+##### Progress
+
+**Completed:** 
+* I got a 2 P4 GPU VM up and running. 
+* Wrote, tested and saved a decoder for scoring. 
+* Set up checkpointing and Tensorboard. 
+* Started hyperparameter tuning. 
+
+**Upcoming:**
+* figure out multi-gpu processing / load balancing
+* integrate more datasets - the summarizations I'm getting from the current dataset feel too long and might be overwhelming the algorithm - going to integrate datasets with shorter summarizations
+* more hyperparameter tweaking - I'm still unclear on max features, training epochs, etc - I'm toying with different arrangements and looking at different approaches online for guidance. 
