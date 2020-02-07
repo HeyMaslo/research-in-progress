@@ -3,6 +3,7 @@
 Progress on the research side during the week of 2/3/2020 - 2/7/2020.
 
 ## Items 
+
 1. Lab Study Design
 2. GitHub Repository 
 3. Knob 
@@ -12,7 +13,8 @@ Progress on the research side during the week of 2/3/2020 - 2/7/2020.
 
 ##### Objective
 
-Given the interesting relationship between exposure and agency perception found in the survey, we opted to assess how exposure influence mind perception in humans + robots in a lab setting. We will manipulate different levels of exposure and explore if longer exposure leads to higher ratings on agency and experience perception. 
+Given the interesting relationship between exposure and agency perception found in the survey, we opted to assess how exposure influences mind perception in humans and robots in a lab setting. We will manipulate different levels of exposure 
+(blurb, short exposure, long exposure) and explore if longer exposure leads to higher ratings on agency and experience perception. 
 
 ##### Progress
 
@@ -41,9 +43,11 @@ We are currently completing the manuscript and the to-do's for getting the lab s
 ## GitHub Repository 
 
 ##### Objective
+
 Setup a GitHub repository containing all of our computational and cognitive research to showcase to a larger community of interested individuals.
 
 ##### Progress
+
   * Fundamental research repository (done, still private pending edits and reviews).
   * Computational research repository will include Orage, empathetic technology research on computational beings, and Tiana's ML (next week).
 
@@ -66,6 +70,7 @@ The idea is to put an AI between you and the media in order to let the machine m
 <img src='assets/k1.png' width='250'>
  
 ##### Progress
+
 We're progressing on the knob prototype. 
 
 <a href='https://drive.google.com/file/d/1GACC_bYePoRM4mXabpwQCjbeYJnTBTRJ/view'>This link takes you to a short video demo of Knob so far.</a>
